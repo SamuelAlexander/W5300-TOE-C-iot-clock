@@ -1,0 +1,9 @@
+aes.c:399:13:aes_gen_tables	12
+aes.c:513:6:mbedtls_aes_init	1
+aes.c:520:6:mbedtls_aes_free	2
+aes.c:551:5:mbedtls_aes_setkey_enc	14
+aes.c:667:5:mbedtls_aes_setkey_dec	4
+aes.c:864:5:mbedtls_internal_aes_encrypt	2
+aes.c:928:5:mbedtls_internal_aes_decrypt	2
+aes.c:991:5:mbedtls_aes_crypt_ecb	2
+aes.c:1029:5:mbedtls_aes_crypt_cbc	7

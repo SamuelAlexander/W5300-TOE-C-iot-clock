@@ -1,0 +1,13 @@
+gcm.c:87:6:mbedtls_gcm_init	1
+gcm.c:101:12:gcm_gen_table	5
+gcm.c:161:5:mbedtls_gcm_setkey	6
+gcm.c:215:13:gcm_mult	3
+gcm.c:271:5:mbedtls_gcm_starts	8
+gcm.c:352:5:mbedtls_gcm_update_ad	10
+gcm.c:407:13:gcm_incr	3
+gcm.c:417:12:gcm_mask	5
+gcm.c:445:5:mbedtls_gcm_update	17
+gcm.c:533:5:mbedtls_gcm_finish	10
+gcm.c:589:5:mbedtls_gcm_crypt_and_tag	5
+gcm.c:627:5:mbedtls_gcm_auth_decrypt	4
+gcm.c:670:6:mbedtls_gcm_free	2

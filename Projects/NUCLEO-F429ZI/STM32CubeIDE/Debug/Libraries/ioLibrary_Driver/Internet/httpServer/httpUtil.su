@@ -1,0 +1,4 @@
+/Users/samuel/STM32CubeIDE/W5300-TOE-C-main/Libraries/ioLibrary_Driver/Internet/httpServer/httpUtil.c:17:9:http_get_cgi_handler	32	static
+/Users/samuel/STM32CubeIDE/W5300-TOE-C-main/Libraries/ioLibrary_Driver/Internet/httpServer/httpUtil.c:41:9:http_post_cgi_handler	32	static
+/Users/samuel/STM32CubeIDE/W5300-TOE-C-main/Libraries/ioLibrary_Driver/Internet/httpServer/httpUtil.c:67:9:predefined_get_cgi_processor	24	static
+/Users/samuel/STM32CubeIDE/W5300-TOE-C-main/Libraries/ioLibrary_Driver/Internet/httpServer/httpUtil.c:72:9:predefined_set_cgi_processor	24	static

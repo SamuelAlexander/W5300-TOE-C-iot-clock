@@ -1,0 +1,4 @@
+/Users/samuel/STM32CubeIDE/W5300-TOE-C-main/Projects/NUCLEO-F207ZG/Drivers/STM32F2xx_HAL_Driver/Src/stm32f2xx_hal_dma_ex.c:101:19:HAL_DMAEx_MultiBufferStart	32	static
+/Users/samuel/STM32CubeIDE/W5300-TOE-C-main/Projects/NUCLEO-F207ZG/Drivers/STM32F2xx_HAL_Driver/Src/stm32f2xx_hal_dma_ex.c:155:19:HAL_DMAEx_MultiBufferStart_IT	32	static
+/Users/samuel/STM32CubeIDE/W5300-TOE-C-main/Projects/NUCLEO-F207ZG/Drivers/STM32F2xx_HAL_Driver/Src/stm32f2xx_hal_dma_ex.c:240:19:HAL_DMAEx_ChangeMemory	24	static
+/Users/samuel/STM32CubeIDE/W5300-TOE-C-main/Projects/NUCLEO-F207ZG/Drivers/STM32F2xx_HAL_Driver/Src/stm32f2xx_hal_dma_ex.c:277:13:DMA_MultiBufferSetConfig	24	static

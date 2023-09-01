@@ -1,0 +1,9 @@
+/Users/samuel/STM32CubeIDE/W5300-TOE-C-main/Libraries/mbedtls/library/aes.c:399:13:aes_gen_tables	2072	static
+/Users/samuel/STM32CubeIDE/W5300-TOE-C-main/Libraries/mbedtls/library/aes.c:513:6:mbedtls_aes_init	16	static
+/Users/samuel/STM32CubeIDE/W5300-TOE-C-main/Libraries/mbedtls/library/aes.c:520:6:mbedtls_aes_free	16	static
+/Users/samuel/STM32CubeIDE/W5300-TOE-C-main/Libraries/mbedtls/library/aes.c:551:5:mbedtls_aes_setkey_enc	32	static
+/Users/samuel/STM32CubeIDE/W5300-TOE-C-main/Libraries/mbedtls/library/aes.c:667:5:mbedtls_aes_setkey_dec	328	static
+/Users/samuel/STM32CubeIDE/W5300-TOE-C-main/Libraries/mbedtls/library/aes.c:864:5:mbedtls_internal_aes_encrypt	64	static
+/Users/samuel/STM32CubeIDE/W5300-TOE-C-main/Libraries/mbedtls/library/aes.c:928:5:mbedtls_internal_aes_decrypt	64	static
+/Users/samuel/STM32CubeIDE/W5300-TOE-C-main/Libraries/mbedtls/library/aes.c:991:5:mbedtls_aes_crypt_ecb	24	static
+/Users/samuel/STM32CubeIDE/W5300-TOE-C-main/Libraries/mbedtls/library/aes.c:1029:5:mbedtls_aes_crypt_cbc	56	static
